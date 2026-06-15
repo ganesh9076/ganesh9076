@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on:<br>Projects related to web development, AI tools, and software applications<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, innovative tech ideas, and team-based development work<br><br>🤔 I’m looking for help with:<br>Advanced system design, cloud technologies, and performance optimization<br><br>🌱 I’m currently learning:<br>Full-stack development, AI/ML concepts, and modern frameworks<br><br>💬 Ask me about:<br>Web development, programming fundamentals, and project building<br><br>⚡ Fun fact:<br>I love turning ideas into working projects and learning something new every day 🚀
 
 
